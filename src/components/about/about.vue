@@ -1,5 +1,5 @@
 <template>
-<div>shouye</div>
+<div>guanyu</div>
 </template>
 
 <script>
