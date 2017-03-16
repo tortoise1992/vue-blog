@@ -1,5 +1,7 @@
 <template>
-<div>guanyu</div>
+  <div class="banner">
+    <img src="static/img/banner.jpg">
+  </div>
 </template>
 
 <script>

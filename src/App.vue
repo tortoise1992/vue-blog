@@ -19,11 +19,11 @@
 </script>
 
 <style  lang="less" rel="stylesheet/less">
-    .switch-enter-active,.switch-leave-active{
-        transition: all 0.5s;
+    .switch-enter-active{
+        transition: all 1s;
     }
     .switch-enter,.switch-leave-active{
-        transform: scale(1.5);
+        transform: translate3d(300px,0,0);
         opacity: 0;
     }
 </style>
