@@ -20,10 +20,10 @@
 
 <style  lang="less" rel="stylesheet/less">
     .switch-enter-active{
-        transition: all 1s;
+        transition: all 0.5s;
     }
     .switch-enter,.switch-leave-active{
-        transform: translate3d(300px,0,0);
+        /*transform: translate3d(300px,0,0);*/
         opacity: 0;
     }
 </style>
